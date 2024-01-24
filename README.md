@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanasis Tsarnadelis</h1>
-<h3 align="center">An Undergradute Electrical and Computer Enginnering Student</h3>
+<h3 align="center">An Undergradute Electrical and Computer Engineering Student</h3>
 
 - 🔭 I’m currently working on [a RISC-V processor in Verilog](https://github.com/tsarnadelis/RISC-V)
 
