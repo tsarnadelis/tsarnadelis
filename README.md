@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Verilog, Cadence**
 
 - 📝 The above are part of **my studies in ECE, Aristotle University**
+  <img src="https://github.com/tsarnadelis/tsarnadelis/assets/81568914/5411ca46-0a6f-477b-9e02-a3fb4e2b3288" width=3% height=3% alt="Aristotle University logo" align="center">
 
 - 📫 How to reach me (University Email) **atsarnad@ece.auth.gr**
 
