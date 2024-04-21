@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thanasis Tsarnadelis</h1>
 <h3 align="center">An Undergradute Electrical and Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on [a RISC-V processor in Verilog](https://github.com/tsarnadelis/RISC-V)
+- 🔭 I’m currently working on [modeling and designing a parking web app](https://github.com/tsarnadelis/SoftwareEnginnering1Projects).
 
-- 🔭 I’m also working on [designing a simple OpAmp](https://github.com/tsarnadelis/OpAmp-Design)
+- 🔭 I’m also working on a Floating point Single Precision Multiplier in System Verilog
 
-- 🌱 I’m currently learning **Verilog, Cadence**
+- 🔭 I’m also working on [designing a spiral inductor in HFSS](https://github.com/tsarnadelis/HFSS_SpiralInductor_Assignment)
+
+- 🔭 I’m also working on designing a Wireless Sensor Network with Arduino
+
+- 🌱 I’m currently learning **System Verilog, HFSS**
 
 - 📝 The above are part of **my studies in ECE, Aristotle University**
   <img src="https://github.com/tsarnadelis/tsarnadelis/assets/81568914/5411ca46-0a6f-477b-9e02-a3fb4e2b3288" width=3% height=3% alt="Aristotle University logo" align="center">
