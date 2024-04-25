@@ -5,9 +5,9 @@
 
 - 🔭 I’m also working on a [Floating point Single Precision Multiplier in SystemVerilog](https://github.com/tsarnadelis/HW2Project)
 
-- 🔭 I’m also working on [designing a spiral inductor in HFSS](https://github.com/tsarnadelis/HFSS_SpiralInductor_Assignment)
+- 🔭 I’m also [designing a spiral inductor in HFSS](https://github.com/tsarnadelis/HFSS_SpiralInductor_Assignment)
 
-- 🔭 I’m also working on designing a Wireless Sensor Network with Arduino
+- 🔭 I’m also designing a Wireless Sensor Network with Arduino
 
 - 🌱 I’m currently learning **System Verilog, HFSS**
 
