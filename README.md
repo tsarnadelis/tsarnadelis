@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanasis Tsarnadelis</h1>
 <h3 align="center">An Undergradute Electrical and Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on [modeling and designing a parking web app](https://github.com/tsarnadelis/SoftwareEnginnering1Projects).
+- 🔭 I’m currently working on [modeling and designing a parking web app](https://github.com/tsarnadelis/SoftwareEnginnering1Projects)
 
 - 🔭 I’m also working on a [Floating point Single Precision Multiplier in SystemVerilog](https://github.com/tsarnadelis/HW2Project)
 
