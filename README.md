@@ -7,7 +7,7 @@
 
 - 🔭 I’m also [designing a spiral inductor in HFSS](https://github.com/tsarnadelis/HFSS_SpiralInductor_Assignment)
 
-- 🔭 I’m also designing a Wireless Sensor Network with Arduino
+- 🔭 I’m also designing a [Wireless Sensor Network with Arduino](https://github.com/tsarnadelis/WSN-ParkingManager)
 
 - 🌱 I’m currently learning **System Verilog, HFSS**
 
