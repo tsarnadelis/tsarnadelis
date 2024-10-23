@@ -47,4 +47,3 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsarnadelis&theme=radical&langs_count=21&layout=donut)
-
